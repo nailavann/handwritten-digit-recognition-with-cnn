@@ -6,6 +6,7 @@ PyQt5 interface that predicts from handwriting with convolutional neural network
 
 Lenet architecture was used.
 
+
 ![Ekran görüntüsü 2022-08-28 150206](https://user-images.githubusercontent.com/74551108/187073517-a8f1f0e4-6af7-407e-af5e-d9b152a07c10.png)
 
 ![Ekran görüntüsü 2022-08-28 150236](https://user-images.githubusercontent.com/74551108/187073521-1e6e4792-0956-4fe2-9978-92dd955ce904.png)
